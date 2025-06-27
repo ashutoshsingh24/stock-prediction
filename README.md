@@ -50,10 +50,10 @@ stock-price-prediction/
 
 
 📚 Use Cases
-Financial forecasting
+->Financial forecasting
 
-Time series modeling
+->Time series modeling
 
-Portfolio analysis
+->Portfolio analysis
 
-ML practice project in finance
+->ML practice project in finance
